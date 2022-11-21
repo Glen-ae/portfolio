@@ -1,0 +1,53 @@
+body{
+    background-color:white;
+    color: black;
+    margin:0%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: medium;
+    line-height: 1.6;
+}
+
+/*Introduction*/
+#home{
+    font-style: italic;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: larger;
+    font-variant-caps: all-petite-caps;
+}
+
+/*My Services*/
+#services{
+    font-style: italic;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: aquamarine;
+    image-rendering: optimizeQuality;
+    font-size: larger;
+    
+    
+}
+
+/*About me*/
+#about{
+    font-size: larger;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-color: aquamarine;
+}
+
+/*My work*/
+#work{
+    font-size: larger;
+    font-weight: bolder;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-color: aquamarine;
+    
+
+}
